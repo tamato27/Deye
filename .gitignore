@@ -1,0 +1,4 @@
+*.cfg
+.DS_Store
+*.conf
+sensors.yaml
